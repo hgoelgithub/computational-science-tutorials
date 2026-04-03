@@ -1,8 +1,7 @@
 # Computational Science Tutorials
 
-**By Himanshu Goel** · [Website](https://himanshugoel.github.io) · [LinkedIn](https://www.linkedin.com/in/himanshu-goel-72a58a5b/)
-
-A collection of 15 Jupyter notebooks covering computational drug discovery, cheminformatics, bioinformatics, agentic AI, and machine learning — all runnable in Google Colab with one click.
+**By Himanshu Goel** · [Website](https://himanshugoel.github.io) 
+A collection of Jupyter notebooks covering computational drug discovery, cheminformatics, bioinformatics, agentic AI, and machine learning — all runnable in Google Colab with one click.
 
 ---
 
