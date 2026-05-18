@@ -1,0 +1,22 @@
+# `````xq
+uuuuuuuuuuuuuuu
+uuuuX
+uuuuuuXXXXsecrets
+.env
+*.env
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+notebooks/[Dgnn_env/
+*_env/
+[A
+# jupyter
+.ipynb_checkpoints/
+
+# vector stores
+pubmed_chroma/
+gnn_env/
+__pycache__/
+*.pyc
