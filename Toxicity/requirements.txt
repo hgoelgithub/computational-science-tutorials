@@ -1,0 +1,14 @@
+# Computational Toxicology Notebooks — Dependencies
+rdkit
+deepchem
+torch
+scikit-learn
+xgboost
+shap
+lime
+pandas
+numpy
+matplotlib
+seaborn
+jupyter
+ipykernel
