@@ -2,7 +2,7 @@
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║  GenAI Script 02 — Conditional VAE (CVAE) for Drug Design                  ║
 ║  Task: Property-controlled molecule generation + latent space interpolation ║
-║  Author: Himanshu Goel | himanshugoel.github.io                              ║
+║  Author: Himanshu Goel | hgoelgithub.github.io                              ║
 ║                                                                              ║
 ║  Architecture: Conditional Variational Autoencoder (CVAE)                   ║
 ║  Key papers: Gómez-Bombarelli et al. 2018 ACS Cent. Sci. (original VAE)    ║

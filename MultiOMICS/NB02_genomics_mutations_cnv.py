@@ -2,7 +2,7 @@
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║  Multi-Omics NB02 — Genomics: Mutations, CNVs & Drug Resistance             ║
 ║  Data: CCLE / TCGA somatic mutations + Copy Number Variations                ║
-║  Author: Himanshu Goel | himanshugoel.github.io                              ║
+║  Author: Himanshu Goel | hgoelgithub.github.io                              ║
 ║                                                                              ║
 ║  Pipeline:                                                                   ║
 ║    1. MAF file parsing & mutation classification (COSMIC signatures)         ║

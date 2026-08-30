@@ -2,7 +2,7 @@
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║  Script 06 — Molecular LLMs vs GNNs: Full Benchmark                         ║
 ║  Task: hERG cardiotoxicity + DILI + Tox21 (unified comparison)              ║
-║  Author: Himanshu Goel | himanshugoel.github.io                              ║
+║  Author: Himanshu Goel | hgoelgithub.github.io                              ║
 ║                                                                              ║
 ║  LLM Models benchmarked:                                                     ║
 ║    1. ChemBERTa-zinc-base-v1  — RoBERTa on ZINC (Chithrananda 2020)        ║

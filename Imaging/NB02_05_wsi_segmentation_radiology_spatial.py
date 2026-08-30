@@ -4,7 +4,7 @@
 ║  Imaging NB03 — Cell Segmentation: U-Net + StarDist + CellPose              ║
 ║  Imaging NB04 — Radiological Imaging: CT/MRI + 3D CNN + Clinical Trials     ║
 ║  Imaging NB05 — Spatial Proteomics: CODEX/CyCIF + GNN + Tissue Mapping      ║
-║  Author: Himanshu Goel | himanshugoel.github.io                             ║
+║  Author: Himanshu Goel | hgoelgithub.github.io                             ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 """
 

@@ -2,7 +2,7 @@
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║  Multi-Omics NB01 — Transcriptomics: DESeq2 + Drug Response Prediction      ║
 ║  Data: GDSC (in vitro IC50) + TCGA (clinical RNA-seq)                        ║
-║  Author: Himanshu Goel | himanshugoel.github.io                              ║
+║  Author: Himanshu Goel | hgoelgithub.github.io                              ║
 ║                                                                              ║
 ║  Pipeline:                                                                   ║
 ║    1. RNA-seq data loading & QC (count matrix, TPM normalization)            ║

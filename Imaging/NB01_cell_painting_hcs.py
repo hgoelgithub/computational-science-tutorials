@@ -2,7 +2,7 @@
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║  Imaging NB01 — Cell Painting: High-Content Screening + Toxicology          ║
 ║  Task: Morphological profiling → toxicity prediction + MoA classification   ║
-║  Author: Himanshu Goel | himanshugoel.github.io                             ║
+║  Author: Himanshu Goel | hgoelgithub.github.io                             ║
 ║                                                                              ║
 ║  Pipeline:                                                                   ║
 ║    1. Cell Painting assay overview (5 channels, 8 organelles)                ║

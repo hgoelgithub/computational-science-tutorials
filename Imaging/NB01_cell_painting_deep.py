@@ -1,7 +1,7 @@
 """
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║  Imaging NB01 — Cell Painting & High-Content Screening (Deep Dive)          ║
-║  Author: Himanshu Goel | himanshugoel.github.io                             ║
+║  Author: Himanshu Goel | hgoelgithub.github.io                             ║
 ║                                                                              ║
 ║  STEP 1 — Assay design: channels, dyes, organelles, plate layout            ║
 ║  STEP 2 — CellProfiler pipeline: illumination, segmentation, 1500 features  ║

@@ -2,7 +2,7 @@
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║  GNN Script 02 — Message Passing Neural Network (MPNN) with Edge Features   ║
 ║  Task: DILI (Drug-Induced Liver Injury) hepatotoxicity prediction            ║
-║  Author: Himanshu Goel | himanshugoel.github.io                              ║
+║  Author: Himanshu Goel | hgoelgithub.github.io                              ║
 ║                                                                              ║
 ║  Architecture: Gilmer et al. 2017 — Neural Message Passing for Quantum       ║
 ║  Chemistry (NeurIPS 2017) — adapted for toxicology                          ║

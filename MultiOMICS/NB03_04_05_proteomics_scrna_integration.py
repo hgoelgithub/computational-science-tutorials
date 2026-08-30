@@ -3,7 +3,7 @@
 ║  Multi-Omics NB03 — Proteomics: Mass Spec + PPI Networks + Drug Targets     ║
 ║  Multi-Omics NB04 — Single-cell RNA-seq: Seurat/Scanpy + Tumor Heterogeneity║
 ║  Multi-Omics NB05 — Multi-Omics Integration + Clinical Outcome Prediction   ║
-║  Author: Himanshu Goel | himanshugoel.github.io                              ║
+║  Author: Himanshu Goel | hgoelgithub.github.io                              ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 """
 

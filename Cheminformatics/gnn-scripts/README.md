@@ -1,6 +1,6 @@
 # GNN Architecture Comparison — Cheminformatics & Drug Discovery
 
-**Author: Himanshu Goel** | [Website](https://himanshugoel.github.io) | [GitHub](https://github.com/himanshugoel)
+**Author: Himanshu Goel** | [Website](https://hgoelgithub.github.io) | [GitHub](https://github.com/himanshugoel)
 
 Five Python scripts covering the complete progression of Graph Neural Network architectures applied to molecular property prediction — from basic GCN to state-of-the-art Graph Transformers, with a comprehensive benchmark comparison.
 

@@ -3,7 +3,7 @@
 ║  GenAI Script 03 — Molecular GAN (Adversarial Training)                     ║
 ║  GenAI Script 04 — Transformer + RL (REINVENT 4-style)                      ║
 ║  GenAI Script 05 — DDPM Diffusion + Full Benchmark Comparison                ║
-║  Author: Himanshu Goel | himanshugoel.github.io                              ║
+║  Author: Himanshu Goel | hgoelgithub.github.io                              ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 """
 

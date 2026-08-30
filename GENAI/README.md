@@ -1,6 +1,6 @@
 # Generative AI for Drug Discovery & Cheminformatics
 
-**Author: Himanshu Goel** | [Website](https://himanshugoel.github.io)
+**Author: Himanshu Goel** | [Website](https://hgoelgithub.github.io)
 
 Five Python scripts covering the complete progression of **Generative AI architectures** for de novo drug design and molecular generation — from basic SMILES-RNN to state-of-the-art Diffusion models, with a comprehensive benchmark comparison.
 

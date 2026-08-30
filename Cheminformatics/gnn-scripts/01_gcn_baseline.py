@@ -2,7 +2,7 @@
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║  GNN Script 01 — Basic Graph Convolutional Network (GCN) Baseline           ║
 ║  Task: Molecular property prediction (hERG cardiotoxicity, IC50 binary)     ║
-║  Author: Himanshu Goel | himanshugoel.github.io                              ║
+║  Author: Himanshu Goel | hgoelgithub.github.io                              ║
 ║                                                                              ║
 ║  Architecture: Kipf & Welling (2017) GCN                                    ║
 ║  Message passing: h_v = ReLU(W · MEAN(h_u for u in N(v) ∪ {v}))            ║

@@ -1,6 +1,6 @@
 # ChemAgent Pro — Production Agentic Cheminformatics Pipeline
 
-**Author:** Himanshu Goel | [himanshugoel.github.io](https://himanshugoel.github.io)
+**Author:** Himanshu Goel | [hgoelgithub.github.io](https://hgoelgithub.github.io)
 
 Inspired by: ChatInvent (AstraZeneca, 2026) · ChemCrow (Nat Mach Intell) · ChemGraph (Comms Chem 2026) · CACTUS · DrugPilot
 
@@ -247,4 +247,4 @@ state = app.invoke(
 
 ---
 
-*ChemAgent Pro | Himanshu Goel | himanshugoel.github.io*
+*ChemAgent Pro | Himanshu Goel | hgoelgithub.github.io*

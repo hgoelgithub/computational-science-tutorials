@@ -2,7 +2,7 @@
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║  GNN Script 03 — Graph Attention Network (GAT) with Multi-head Attention    ║
 ║  Task: Molecular solubility (logS) regression — ESOL benchmark              ║
-║  Author: Himanshu Goel | himanshugoel.github.io                              ║
+║  Author: Himanshu Goel | hgoelgithub.github.io                              ║
 ║                                                                              ║
 ║  Architecture: Veličković et al. 2018 — Graph Attention Networks (ICLR)     ║
 ║                                                                              ║

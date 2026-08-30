@@ -4,7 +4,7 @@
 ║  Imaging NB03 — Cell Segmentation: Deep Dive (6 Steps)                      ║
 ║  Imaging NB04 — Radiological Imaging: Deep Dive (6 Steps)                   ║
 ║  Imaging NB05 — Spatial Proteomics: Deep Dive (6 Steps)                     ║
-║  Author: Himanshu Goel | himanshugoel.github.io                             ║
+║  Author: Himanshu Goel | hgoelgithub.github.io                             ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 """
 

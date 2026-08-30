@@ -2,7 +2,7 @@
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║  GNN Script 04 — Advanced Graph Transformer + Virtual Node + 3D Geometry     ║
 ║  Task: Tox21 multi-task toxicity prediction (12 endpoints simultaneously)    ║
-║  Author: Himanshu Goel | himanshugoel.github.io                              ║
+║  Author: Himanshu Goel | hgoelgithub.github.io                              ║
 ║                                                                              ║
 ║  Architecture stack (state-of-the-art 2023-2024):                            ║
 ║    1. Graph Transformer (Graphormer-inspired) — global attention              ║

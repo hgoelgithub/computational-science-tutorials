@@ -2,7 +2,7 @@
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║  GNN Script 05 — Comprehensive GNN Benchmark & Architecture Comparison       ║
 ║  Task: hERG cardiotoxicity (unified benchmark across all architectures)      ║
-║  Author: Himanshu Goel | himanshugoel.github.io                              ║
+║  Author: Himanshu Goel | hgoelgithub.github.io                              ║
 ║                                                                              ║
 ║  Models compared (all trained identically for fair comparison):              ║
 ║    1. GCN         — Kipf & Welling 2017 (baseline)                          ║

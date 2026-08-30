@@ -2,7 +2,7 @@
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║  GenAI Script 01 — Character-level SMILES RNN (Baseline)                    ║
 ║  Task: De novo drug-like molecule generation                                 ║
-║  Author: Himanshu Goel | himanshugoel.github.io                              ║
+║  Author: Himanshu Goel | hgoelgithub.github.io                              ║
 ║                                                                              ║
 ║  Architecture: LSTM language model on SMILES strings                         ║
 ║  Seminal paper: Segler et al. 2018, ACS Central Science                      ║
